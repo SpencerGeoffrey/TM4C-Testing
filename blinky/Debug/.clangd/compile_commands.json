@@ -1,0 +1,12 @@
+[
+   {
+      "directory" : "C:/Users/TavaresSpencer1/workspace_ccstheia/blinky/Debug",
+      "command"   : "clang++ -I\"C:/Users/TavaresSpencer1/workspace_ccstheia/blinky\" -I\"C:/ti/TivaWare_C_Series-2.2.0.295\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include\" -Dccs=\"ccs\" -DPART_TM4C123GH6PM -DTARGET_IS_TM4C123_RB1",
+      "file"      : "C:/Users/TavaresSpencer1/workspace_ccstheia/blinky/blinky.c"
+   },
+   {
+      "directory" : "C:/Users/TavaresSpencer1/workspace_ccstheia/blinky/Debug",
+      "command"   : "clang++ -I\"C:/Users/TavaresSpencer1/workspace_ccstheia/blinky\" -I\"C:/ti/TivaWare_C_Series-2.2.0.295\" -I\"C:/ti/ccs2010/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include\" -Dccs=\"ccs\" -DPART_TM4C123GH6PM -DTARGET_IS_TM4C123_RB1",
+      "file"      : "C:/Users/TavaresSpencer1/workspace_ccstheia/blinky/startup_ccs.c"
+   }
+]
