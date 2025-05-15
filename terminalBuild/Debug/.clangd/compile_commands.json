@@ -1,0 +1,32 @@
+[
+   {
+      "directory" : "C:/Users/TavaresSpencer1/workspace_ccstheia/terminalBuild/Debug",
+      "command"   : "clang++ -I\"C:/Users/TavaresSpencer1/workspace_ccstheia/terminalBuild\" -I\"C:/ti/ccs2011/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include\" -I\"C:/ti/TivaWare_C_Series-2.2.0.295\" -Dccs=\"ccs\" -DTARGET_IS_TM4C123_RB1 -DPART_TM4C123GH6PM -xc",
+      "file"      : "C:/Users/TavaresSpencer1/workspace_ccstheia/terminalBuild/TEDS.c"
+   },
+   {
+      "directory" : "C:/Users/TavaresSpencer1/workspace_ccstheia/terminalBuild/Debug",
+      "command"   : "clang++ -I\"C:/Users/TavaresSpencer1/workspace_ccstheia/terminalBuild\" -I\"C:/ti/ccs2011/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include\" -I\"C:/ti/TivaWare_C_Series-2.2.0.295\" -Dccs=\"ccs\" -DTARGET_IS_TM4C123_RB1 -DPART_TM4C123GH6PM -xc",
+      "file"      : "C:/Users/TavaresSpencer1/workspace_ccstheia/terminalBuild/eeprom.c"
+   },
+   {
+      "directory" : "C:/Users/TavaresSpencer1/workspace_ccstheia/terminalBuild/Debug",
+      "command"   : "clang++ -I\"C:/Users/TavaresSpencer1/workspace_ccstheia/terminalBuild\" -I\"C:/ti/ccs2011/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include\" -I\"C:/ti/TivaWare_C_Series-2.2.0.295\" -Dccs=\"ccs\" -DTARGET_IS_TM4C123_RB1 -DPART_TM4C123GH6PM -xc",
+      "file"      : "C:/Users/TavaresSpencer1/workspace_ccstheia/terminalBuild/main.c"
+   },
+   {
+      "directory" : "C:/Users/TavaresSpencer1/workspace_ccstheia/terminalBuild/Debug",
+      "command"   : "clang++ -I\"C:/Users/TavaresSpencer1/workspace_ccstheia/terminalBuild\" -I\"C:/ti/ccs2011/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include\" -I\"C:/ti/TivaWare_C_Series-2.2.0.295\" -Dccs=\"ccs\" -DTARGET_IS_TM4C123_RB1 -DPART_TM4C123GH6PM -xc",
+      "file"      : "C:/Users/TavaresSpencer1/workspace_ccstheia/terminalBuild/tm4c123gh6pm_startup_ccs.c"
+   },
+   {
+      "directory" : "C:/Users/TavaresSpencer1/workspace_ccstheia/terminalBuild/Debug",
+      "command"   : "clang++ -I\"C:/Users/TavaresSpencer1/workspace_ccstheia/terminalBuild\" -I\"C:/ti/ccs2011/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include\" -I\"C:/ti/TivaWare_C_Series-2.2.0.295\" -Dccs=\"ccs\" -DTARGET_IS_TM4C123_RB1 -DPART_TM4C123GH6PM -xc",
+      "file"      : "C:/Users/TavaresSpencer1/workspace_ccstheia/terminalBuild/utils/eeprom_pb.c"
+   },
+   {
+      "directory" : "C:/Users/TavaresSpencer1/workspace_ccstheia/terminalBuild/Debug",
+      "command"   : "clang++ -I\"C:/Users/TavaresSpencer1/workspace_ccstheia/terminalBuild\" -I\"C:/ti/ccs2011/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include\" -I\"C:/ti/TivaWare_C_Series-2.2.0.295\" -Dccs=\"ccs\" -DTARGET_IS_TM4C123_RB1 -DPART_TM4C123GH6PM -xc",
+      "file"      : "C:/Users/TavaresSpencer1/workspace_ccstheia/terminalBuild/utils/uartstdio.c"
+   }
+]

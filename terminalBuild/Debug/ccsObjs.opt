@@ -1,0 +1,9 @@
+"./TEDS.obj"
+"./eeprom.obj"
+"./main.obj"
+"./tm4c123gh6pm_startup_ccs.obj"
+"./utils/eeprom_pb.obj"
+"./utils/uartstdio.obj"
+"../tm4c123gh6pm.cmd"
+"../Debug 1/driverlib.lib"
+-llibc.a
